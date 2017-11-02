@@ -1,0 +1,1 @@
+This is a little Slack bot I made that gives you suggestions on what to do when you're bored, based on how you feel. Sometimes it may help to have someone tell you it's ok to take it easy, or to motivate you a little bit to work on something meaningful. Written in Java!
